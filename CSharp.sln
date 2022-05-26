@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{A4121539-8DDB-4F23-9631-1A7851C62C6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitBasic", "AsyncAwaitBasic\AsyncAwaitBasic.csproj", "{A4121539-8DDB-4F23-9631-1A7851C62C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitNested", "AsyncAwaitNested\AsyncAwaitNested.csproj", "{E58ECB60-4F9B-4860-AF4F-0BAAE036C03C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{EBD0E75A-3DFB-4F35-8F53-4C1F83CE27F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{A4121539-8DDB-4F23-9631-1A7851C62C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4121539-8DDB-4F23-9631-1A7851C62C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4121539-8DDB-4F23-9631-1A7851C62C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E58ECB60-4F9B-4860-AF4F-0BAAE036C03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58ECB60-4F9B-4860-AF4F-0BAAE036C03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58ECB60-4F9B-4860-AF4F-0BAAE036C03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58ECB60-4F9B-4860-AF4F-0BAAE036C03C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD0E75A-3DFB-4F35-8F53-4C1F83CE27F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD0E75A-3DFB-4F35-8F53-4C1F83CE27F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD0E75A-3DFB-4F35-8F53-4C1F83CE27F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD0E75A-3DFB-4F35-8F53-4C1F83CE27F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

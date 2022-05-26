@@ -1,4 +1,4 @@
-namespace AsyncAwait;
+namespace AsyncAwaitBasic;
 
 public static  class GetTasksService
 {
