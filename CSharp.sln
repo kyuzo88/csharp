@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitNested", "AsyncAw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{EBD0E75A-3DFB-4F35-8F53-4C1F83CE27F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelGrep", "ParallelGrep\ParallelGrep.csproj", "{E1D9D8D7-8BB9-48D8-A0E1-9DDC9853478E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDI", "ConsoleDI\ConsoleDI.csproj", "{9BFBF392-24B1-43B0-81EE-BF7836D0E8B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{EBD0E75A-3DFB-4F35-8F53-4C1F83CE27F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBD0E75A-3DFB-4F35-8F53-4C1F83CE27F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBD0E75A-3DFB-4F35-8F53-4C1F83CE27F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1D9D8D7-8BB9-48D8-A0E1-9DDC9853478E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D9D8D7-8BB9-48D8-A0E1-9DDC9853478E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D9D8D7-8BB9-48D8-A0E1-9DDC9853478E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D9D8D7-8BB9-48D8-A0E1-9DDC9853478E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BFBF392-24B1-43B0-81EE-BF7836D0E8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFBF392-24B1-43B0-81EE-BF7836D0E8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFBF392-24B1-43B0-81EE-BF7836D0E8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFBF392-24B1-43B0-81EE-BF7836D0E8B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
